@@ -14,3 +14,10 @@ Klasse: 25-hbft1
 -Mit anderen zusammenarbeiten
 
 Natürlich kannste den text anpassen
+
+##Mein Lieblings spiel
+Mein lieblings Spiel ist ##Eldenring
+
+##Mein Ziel
+
+Ich möchte der beste sein
